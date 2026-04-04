@@ -15,7 +15,7 @@ My passion for IT has never stopped growing since I started my studies. I discov
 What really makes me love development is the fact that I can build anything I want and that it helps me understand how a computer works.
 Moreover, since I love learning new things more than anything, software engineering being a extremely vast universe, makes me love it even more.
 
-My favorite technologies are **C** (for system projects) and **TypeScript** (for web projects). I am still discovering frameworks as I move from beginner to advanced, but for now, I really appreciate **NestJS** for backend development and **Angular** or also the **React** library for frontend work.
+My favorite technologies are **C** (for system projects) and **TypeScript** (for web projects). I am still discovering frameworks as I move from complete beginner to an intermediate level, but for now, I really appreciate **NestJS** for backend development and **Angular** or also the **React** library for frontend work.
 
 My main domain is currently the **full-stack** development, but I would truly appreciate to understand the world of **embedded systems**.
 
